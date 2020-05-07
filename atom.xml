@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Helia Hashemi</title>
+ <link href="https://people.cs.umass.edu/~hhashemi/https://people.cs.umass.edu/~hhashemi//atom.xml" rel="self"/>
+ <link href="https://people.cs.umass.edu/~hhashemi/https://people.cs.umass.edu/~hhashemi//"/>
+ <updated>2020-03-22T09:38:57-07:00</updated>
+ <id>https://people.cs.umass.edu/~hhashemi/</id>
+ <author>
+   <name>Helia Hashemi</name>
+   <email>hhashemi@cs.umass.edu</email>
+ </author>
+
+ 
+ <entry>
+   <title>Code Map</title>
+   <link href="https://people.cs.umass.edu/~hhashemi/https://people.cs.umass.edu/~hhashemi//2019/10/20/code-map/"/>
+   <updated>2019-10-20T00:00:00-07:00</updated>
+   <id>https://people.cs.umass.edu/~hhashemi//2019/10/20/code-map</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;ANTIQUE: A Non-Factoid Question Answering Benchmark.&lt;/strong&gt;&lt;br /&gt;
+&lt;u&gt;H. Hashemi&lt;/u&gt;, M. Aliannejadi, H. Zamani, and W. B. Croft.&lt;br /&gt;
+&lt;strong&gt;ECIR 2020&lt;/strong&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Get Me There Better</title>
+   <link href="https://people.cs.umass.edu/~hhashemi/https://people.cs.umass.edu/~hhashemi//2019/08/18/get-me-there-better/"/>
+   <updated>2019-08-18T00:00:00-07:00</updated>
+   <id>https://people.cs.umass.edu/~hhashemi//2019/08/18/get-me-there-better</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;UMass at the TREC 2019 Conversational Assistance Track.&lt;/strong&gt;&lt;br /&gt;
+&lt;u&gt;H. Hashemi&lt;/u&gt; and W. B. Croft.&lt;br /&gt;
+&lt;strong&gt;TREC 2019&lt;/strong&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Scribe</title>
+   <link href="https://people.cs.umass.edu/~hhashemi/https://people.cs.umass.edu/~hhashemi//2016/06/16/scribe/"/>
+   <updated>2016-06-16T00:00:00-07:00</updated>
+   <id>https://people.cs.umass.edu/~hhashemi//2016/06/16/scribe</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;Performance Prediction for Non-Factoid Question Answering.&lt;/strong&gt;&lt;br /&gt;
+&lt;u&gt;H. Hashemi&lt;/u&gt;, H. Zamani, and W. B. Croft.&lt;br /&gt;
+&lt;strong&gt;ICTIR 2019, Best Short Paper Honorable Mention Award.&lt;/strong&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+
+</feed>
